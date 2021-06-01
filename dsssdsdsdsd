@@ -1,0 +1,61 @@
+* [33mcommit 67f8dbf21cf34681bfa6028945db7e1fc8a41321[m[33m ([m[1;36mHEAD -> [m[1;32msecond[m[33m, [m[1;31morigin/second[m[33m)[m
+[31m|[m Author: Testers <Testers@test.ru>
+[31m|[m Date:   Tue Jun 1 16:59:50 2021 +0400
+[31m|[m 
+[31m|[m     Update LICENSE
+[31m|[m 
+* [33mcommit d3c39b07eaf5181e91de0926499a5994eb132b91[m
+[31m|[m Author: Testers <Testers@test.ru>
+[31m|[m Date:   Tue Jun 1 16:55:35 2021 +0400
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m 
+* [33mcommit fc0a017ad852c4a8d49543c5f7b8bb4d08d44a21[m
+[31m|[m Author: Testers <Testers@test.ru>
+[31m|[m Date:   Tue Jun 1 16:54:44 2021 +0400
+[31m|[m 
+[31m|[m     Revert "Edit second"
+[31m|[m     
+[31m|[m     This reverts commit 8c5fc47ba44412a0e6ce7183788b4fe46a9b8025.
+[31m|[m 
+* [33mcommit 8c5fc47ba44412a0e6ce7183788b4fe46a9b8025[m
+[31m|[m Author: Testers <Testers@test.ru>
+[31m|[m Date:   Tue Jun 1 16:54:01 2021 +0400
+[31m|[m 
+[31m|[m     Edit second
+[31m|[m 
+* [33mcommit c082c2fa265582d667017189d50e9ea9e779006f[m[33m ([m[1;31morigin/testers[m[33m, [m[1;32mtesters[m[33m)[m
+[31m|[m Author: Testers <Testers@test.ru>
+[31m|[m Date:   Tue Jun 1 16:45:44 2021 +0400
+[31m|[m 
+[31m|[m     Test 2 .gitignore
+[31m|[m 
+* [33mcommit 80c581d31a8d1f88d1d7b61ee8b38f3f89a0c8e0[m
+[31m|[m Author: Testers <Testers@test.ru>
+[31m|[m Date:   Tue Jun 1 15:03:03 2021 +0400
+[31m|[m 
+[31m|[m     Test .gitignore
+[31m|[m 
+* [33mcommit 32e4237029fe0770f98dce93ebb6e62298316b3a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mdev[m[33m)[m
+[31m|[m Author: Dima K <DK@test.ru>
+[31m|[m Date:   Tue Jun 1 14:21:50 2021 +0400
+[31m|[m 
+[31m|[m     Update .gitignore
+[31m|[m 
+* [33mcommit d079baa7abe814efc27a28edaad8f01c5e561277[m
+[31m|[m Author: Dima K <DK@test.ru>
+[31m|[m Date:   Tue Jun 1 14:18:40 2021 +0400
+[31m|[m 
+[31m|[m     Update 2 README.md
+[31m|[m 
+* [33mcommit 03135c12e70530cd05e9d814a61e284ba9402ee0[m
+[31m|[m Author: Test T <testt@test.ru>
+[31m|[m Date:   Tue Jun 1 14:16:15 2021 +0400
+[31m|[m 
+[31m|[m     Update README.md
+[31m|[m 
+* [33mcommit efd30be09f884bd300cee14feaa7f978c4ef4643[m
+  Author: IST-hub <85152475+IST-hub@users.noreply.github.com>
+  Date:   Tue Jun 1 14:14:07 2021 +0400
+  
+      Initial commit
